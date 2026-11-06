@@ -1,0 +1,23 @@
+@import url("./global.css");
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: var(--primary-color-001);
+    padding: 15px 0;
+}
+
+.menu{
+    display: flex;
+    list-style: none;
+}
+
+.menu li a{
+    padding: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: var(--poppins-semi-bold);
+    color: white;
+    font-size: 12px;
+}
