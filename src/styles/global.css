@@ -1,0 +1,25 @@
+/* Alteração pro chore */
+/* ------ Reset Styles ------ */
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  text-decoration: none;
+  box-sizing: border-box; /* Garante que o elemento tenha largura e altura que eu defini, mesmo após o padding */
+}
+
+/* Variaveis */
+:root{
+
+    --primary-color-001: #EE1D1D;
+    --primary-color-002: #BA2020;
+    --primary-color-003: #921919;
+
+    --secundary-color-001: #850C0C;
+    --secundary-color-002: #590B0B;
+    --secundary-color-003: #400909;
+
+    --color-white: #FFF;
+
+    --poppins-semi-bold: "Poppins", sans-serif;
+}
